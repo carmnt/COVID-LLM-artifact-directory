@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/carmnt/COVID-LLM-artifact-directory",
+    "project-repository": "https://github.com/ramosrenzo/COVID-LLM",
+    "project-website-url": "https://ramosrenzo.github.io/COVID-LLM/",
+    "project-website-code": "https://github.com/ramosrenzo/COVID-LLM"
 }
